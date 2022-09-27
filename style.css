@@ -1,0 +1,24 @@
+#game div {
+	border: 2px solid greenyellow;
+	width: 15%;
+	height: 200px;
+	margin: 10px;
+	display: inline-block;
+}
+
+h1 {
+	color: rgb(178, 6, 14);
+	display: flex;
+	justify-content: center;
+	font-family: "Modak", cursive;
+	font-size: 10rem;
+}
+
+body {
+	background-image: url("https://image.shutterstock.com/image-illustration/human-body-brain-260nw-520111273.jpg");
+	opacity: 80;
+	height: 100%;
+	background-repeat: no-repeat;
+	background-size: cover;
+	align-self: center;
+}
